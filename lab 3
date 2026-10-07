@@ -8,13 +8,13 @@
 </head>
 <body>
 
-  <!-- Requirement 1: Title and sub header in a jumbotron -->
+
   <div class="container-fluid bg-light text-center p-5">
     <h1 class="display-4">Lab 3 - Responsive Design</h1>
     <p class="lead">Mohamed's Bootstrap Lab</p>
   </div>
 
-  <!-- Requirement 2: Navbar back to homepage, lab3 shown as the current page -->
+  
   <nav class="navbar navbar-expand-sm navbar-light bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.html">Mohamed</a>
@@ -36,7 +36,7 @@
 
   <div class="container mt-4">
 
-    <!-- Requirement 3: At least one paragraph -->
+  
     <h2>About Me</h2>
     <p>
       My name is Mohamed and I'm a computer science student based in
@@ -46,7 +46,7 @@
       how to build responsive pages with Bootstrap.
     </p>
 
-    <!-- Requirements 4 and 5: List and rounded image in the same grid row -->
+    
     <div class="row mt-4">
       <div class="col-md-8">
         <h2>A Few Things About Me</h2>
@@ -63,7 +63,7 @@
       </div>
     </div>
 
-    <!-- Requirement 6: Horizontal rule with date and author name -->
+   
     <hr>
     <p>Last updated on October 7, 2026 by Mohamed</p>
 
